@@ -13,4 +13,4 @@ Covid Screening App is a self-assessment tool to help determine whether you need
 HTML, CSS, JavaScript, Bootstrap, jQuery
 
 
-# neerajmandhan.github.io
+# https://neerajmandhan.github.io/Covid-Screener/
